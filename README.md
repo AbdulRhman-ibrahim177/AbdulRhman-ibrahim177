@@ -1,6 +1,5 @@
 # 💫 About Me:
-I 'm currently Studying  AI Science<br>I have good experience in Machine learning & Neural Networks<br>I 'm an  intermediate in Web Development <br>I 'm currently learning more modern Web Development tools and Frameworks<br>I have a good experience in team working and Project Management , and I have been the leader of many projects 
-, MY projects Link :https://github.com/AbdulRhman-ibrahim177/My-projects
+I 'm currently Studying  AI Science<br>I have good experience in Machine learning & Neural Networks<br>I 'm an  intermediate in Web Development <br>I 'm currently learning more modern Web Development tools and Frameworks<br>I have a good experience in team working and Project Management , and I have been the leader of many projects <br> MY projects Link :https://github.com/AbdulRhman-ibrahim177/My-projects
 
 
 ## 🌐 Socials:
